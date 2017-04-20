@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  w6prac
-//
+// test commit
 //  Created by David Wang on 20/04/2017.
 //  Copyright © 2017 David Wang. All rights reserved.
 //
